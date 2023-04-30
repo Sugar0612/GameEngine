@@ -1,0 +1,19 @@
+﻿  WindowLayer.cpp
+H:\Project\LearnOpenGL\LearnOpenGL\Editor\Layer\WindowLayer.cpp(32,22): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+H:\Project\LearnOpenGL\LearnOpenGL\Editor\Layer\WindowLayer.cpp(33,23): warning C4244: “=”: 从“int”转换到“GLfloat”，可能丢失数据
+  CollectionMgr.cpp
+H:\Project\LearnOpenGL\LearnOpenGL\Engine\Manager\CollectionMgr\CollectionMgr.cpp(159,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  GLPtrMgr.cpp
+  main.cpp
+  Camera.cpp
+  Shader.cpp
+  texture.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  正在生成代码...
+  LearnOpenGL.vcxproj -> H:\Project\LearnOpenGL\Debug\LearnOpenGL.exe
